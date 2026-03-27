@@ -35,7 +35,7 @@ For each matching element, a `TreeWalker` collects all text nodes. Starting from
 
 ## History
 
-I wrote the first version as a jQuery/CoffeeScript plugin for discardedlies.com around 2007. The name comes from the typographic term — a widow is a single word left alone on the last line of a paragraph. This version is a rewrite for modern browsers, no dependencies.
+The name and the idea come from [Shaun Inman's WordPress plugin](https://shauninman.com/archive/2006/08/22/widont_wordpress_plugin) (2006), which John Gruber amplified on Daring Fireball. I wrote a jQuery/CoffeeScript version for discardedlies.com around 2007. This is a rewrite for modern browsers, no dependencies.
 
 ## License
 
